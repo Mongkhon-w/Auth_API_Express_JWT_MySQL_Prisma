@@ -17,6 +17,8 @@
 ```sql
 CREATE DATABASE mydb;
 USE mydb;
+show tables;
+select * from User;
 ```
 
 ### Schema
