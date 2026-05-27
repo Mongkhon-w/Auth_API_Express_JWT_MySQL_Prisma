@@ -1,4 +1,4 @@
-# Auth API
+# Auth API ด้วย Express, JWT, MySQL และ Prisma version 6
 
 ## Required
 
@@ -8,7 +8,7 @@
 * Prisma (v6)
 * JWT & bcryptjs
 * Vscode
-    * Thunder Client / Postman (For API Testing)
+    * Thunder Client (For API Testing)
 
 ## Running
 
